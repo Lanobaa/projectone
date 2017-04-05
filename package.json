@@ -16,6 +16,11 @@
     "url": "https://github.com/Lanobaa/projectone/issues"
   },
   "homepage": "https://github.com/Lanobaa/projectone#readme",
+  "dependencies": {
+    "normalize.css": "^6.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
@@ -30,10 +35,5 @@
     "stylus-loader": "^3.0.1",
     "url-loader": "^0.5.8",
     "webpack": "^2.3.3"
-  },
-  "dependencies": {
-    "normalize.css": "^6.0.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
   }
 }
